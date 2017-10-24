@@ -3,15 +3,5 @@
     "repository": "android_device_cyanogen_msm8916-common",
     "target_path": "device/cyanogen/msm8916-common",
     "branch":      "o"
-  },
-  {
-    "repository": "android_kernel_cyanogen_msm8916",
-    "target_path": "kernel/cyanogen/msm8916",
-    "branch":      "o"
-  },
-  {
-    "repository": "proprietary_vendor_yu",
-    "target_path": "vendor/yu",
-    "branch":      "o"
   }
 ]

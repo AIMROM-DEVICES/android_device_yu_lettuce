@@ -18,6 +18,9 @@ $(call inherit-product, device/yu/lettuce/full_lettuce.mk)
 # Inherit some common AIM stuff.
 $(call inherit-product, vendor/aim/config/common_full_phone.mk)
 
+# Bootanimation
+TARGET_SCREEN_WIDTH := 720
+
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8916
 

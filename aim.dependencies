@@ -2,6 +2,6 @@
   {
     "repository": "android_device_cyanogen_msm8916-common",
     "target_path": "device/cyanogen/msm8916-common",
-    "branch":      "o"
+    "branch":      "o8.1"
   }
 ]
